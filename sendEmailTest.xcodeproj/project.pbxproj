@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1198550424CF7E22005CB6DB /* JobsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1198550324CF7E22005CB6DB /* JobsViewController.swift */; };
 		85D2926124C0B27900181952 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D2926024C0B27900181952 /* AppDelegate.swift */; };
 		85D2926324C0B27900181952 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D2926224C0B27900181952 /* SceneDelegate.swift */; };
 		85D2926524C0B27900181952 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D2926424C0B27900181952 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1198550324CF7E22005CB6DB /* JobsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JobsViewController.swift; sourceTree = "<group>"; };
 		85D2925D24C0B27900181952 /* sendEmailTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sendEmailTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85D2926024C0B27900181952 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		85D2926224C0B27900181952 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				85D2926924C0B27C00181952 /* Assets.xcassets */,
 				85D2926B24C0B27C00181952 /* LaunchScreen.storyboard */,
 				85D2926E24C0B27C00181952 /* Info.plist */,
+				1198550324CF7E22005CB6DB /* JobsViewController.swift */,
 			);
 			path = sendEmailTest;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1198550424CF7E22005CB6DB /* JobsViewController.swift in Sources */,
 				85D2926524C0B27900181952 /* ViewController.swift in Sources */,
 				85D2926124C0B27900181952 /* AppDelegate.swift in Sources */,
 				85D2926324C0B27900181952 /* SceneDelegate.swift in Sources */,
